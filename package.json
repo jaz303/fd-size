@@ -1,0 +1,25 @@
+{
+  "name": "fd-size",
+  "version": "0.0.0",
+  "description": "2D size",
+  "main": "index.js",
+  "scripts": {
+    "test": "set -e; for t in test/*.js; do node $t; done"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaz303/fd-size.git"
+  },
+  "keywords": [
+    "math",
+    "2d",
+    "geometry",
+    "size"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaz303/fd-size/issues"
+  },
+  "homepage": "https://github.com/jaz303/fd-size"
+}
