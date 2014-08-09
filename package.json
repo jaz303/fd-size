@@ -1,6 +1,6 @@
 {
   "name": "fd-size",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "2D size",
   "main": "index.js",
   "scripts": {
