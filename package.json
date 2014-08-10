@@ -28,6 +28,6 @@
     "uglify-js": "^2.4.15"
   },
   "dependencies": {
-    "fd-vec2": "^0.2.0"
+    "fd-vec2": "^1.0.0"
   }
 }
